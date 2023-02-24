@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "f758140b76ddeac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd19ac796c81c0be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b765b09f3dc4a70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Debugging and Easier Development/2. Understanding different Errors.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25c546b5fedeb220",
+    "type": "split",
+    "children": [
+      {
+        "id": "d757294d28e3f319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cdf73c51a537df8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4407b847857e174b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ae3578d288b0760",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b99dce267a81001",
+    "type": "split",
+    "children": [
+      {
+        "id": "6993acfdcb13be36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "456543202ce708fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Debugging and Easier Development/2. Understanding different Errors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3d933e60c839ab4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Debugging and Easier Development/2. Understanding different Errors.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69fd98e9998fe394",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0310ee1ba450c9f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Debugging and Easier Development/2. Understanding different Errors.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b765b09f3dc4a70f",
+  "lastOpenFiles": [
+    "2. Node.js Basics/4. Exports.md",
+    "2. Node.js Basics/3. Responses.md",
+    "2. Node.js Basics/2. Creating Node.js Server.md",
+    "2. Node.js Basics/1. How the web works.md",
+    "1. Intoduction/1. What is Node.js.md",
+    "1. Intoduction/2. Executing Codes.md",
+    "3. Debugging and Easier Development/1. Setting up NPM.md",
+    "3. Debugging and Easier Development/2. Understanding different Errors.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/simple-update-notifier/build/index.js",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/simple-update-notifier/build/index.d.ts",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/simple-update-notifier/build",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/nodemon/doc/cli/whoami.txt",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/nodemon/doc/cli/usage.txt",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/nodemon/doc/cli/topics.txt",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/nodemon/doc/cli/logo.txt",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/nodemon/doc/cli/options.txt",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/nodemon/doc/cli/help.txt",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/nodemon/doc/cli/config.txt",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/nodemon/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/simple-update-notifier/node_modules/semver/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/simple-update-notifier/node_modules/semver/CHANGELOG.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/touch/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/abbrev/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/undefsafe/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/semver/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/ignore-by-default/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/normalize-path/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/is-glob/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/to-regex-range/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/readdirp/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/fill-range/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/ms/readme.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/balanced-match/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/is-number/README.md",
+    "3. Debugging and Easier Development/Codes/1.NPMsetup/node_modules/brace-expansion/README.md",
+    "2. Creating Node.js.md",
+    "2. Node.js Basics/Images/Web Flowchart.png"
+  ]
+}
