@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55e29288d9969f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Express.js/6. Serving Static files.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Express.js/6. Serving Static files.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Express.js/6. Serving Static files.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -195,8 +207,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26c09e794a21bf07",
+  "active": "55e29288d9969f8c",
   "lastOpenFiles": [
+    "4. Express.js/6. Serving Static files.md",
+    "Readme.md",
     "4. Express.js/Codes/2.RoutesInExpress/views/pageNotFound.html",
     "4. Express.js/Codes/2.RoutesInExpress/views/404.html",
     "4. Express.js/Codes/2.RoutesInExpress/public/css/main.css",
@@ -204,13 +218,11 @@
     "4. Express.js/Codes/2.RoutesInExpress/public/css",
     "4. Express.js/Codes/2.RoutesInExpress/public",
     "4. Express.js/5. Serving a HTML page.md",
-    "4. Express.js/6. Serving Static files.md",
     "4. Express.js/Codes/2.RoutesInExpress/views/pageNotFound (2).html",
     "4. Express.js/4. Setting up the Routes.md",
     "4. Express.js/Codes/2.RoutesInExpress/util/path.js",
     "4. Express.js/Codes/2.RoutesInExpress/util",
     "4. Express.js/Codes/2.RoutesInExpress/utils",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/touch/bin/nodetouch.js",
     "4. Express.js/Codes/2.RoutesInExpress/node_modules/touch/README.md",
     "4. Express.js/Codes/2.RoutesInExpress/node_modules/ignore-by-default/README.md",
     "4. Express.js/Codes/2.RoutesInExpress/node_modules/inherits/README.md",
