@@ -207,10 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55e29288d9969f8c",
+  "active": "2cdf73c51a537df8",
   "lastOpenFiles": [
-    "4. Express.js/6. Serving Static files.md",
+    "2. Node.js Basics/1. How the web works.md",
     "Readme.md",
+    "4. Express.js/6. Serving Static files.md",
     "4. Express.js/Codes/2.RoutesInExpress/views/pageNotFound.html",
     "4. Express.js/Codes/2.RoutesInExpress/views/404.html",
     "4. Express.js/Codes/2.RoutesInExpress/public/css/main.css",
@@ -244,7 +245,6 @@
     "4. Express.js/Codes/2.RoutesInExpress/node_modules/braces/README.md",
     "4. Express.js/Codes/2.RoutesInExpress/node_modules/braces/CHANGELOG.md",
     "4. Express.js/Codes/2.RoutesInExpress/node_modules/anymatch/README.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/is-binary-path/readme.md",
     "2. Node.js Basics/Images/Web Flowchart.png"
   ]
 }
