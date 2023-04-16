@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22260239ff06cc21",
+            "id": "72dc1430048cc8c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Express.js/1. Introduction to Express.js.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c227f0121f5084ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Express.js/2. Handling paths.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbce6863386926e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Express.js/4. Setting up the Routes.md",
+                "file": "6. Model View Controller/3. Models.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f45deca793292f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Express.js/5. Serving a HTML page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26c09e794a21bf07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Express.js/6. Serving Static files.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Express.js/6. Serving Static files.md",
+                "file": "6. Model View Controller/3. Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Express.js/6. Serving Static files.md",
+                "file": "6. Model View Controller/3. Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Express.js/6. Serving Static files.md"
+                "file": "6. Model View Controller/3. Models.md"
               }
             }
           }
@@ -195,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cdf73c51a537df8",
+  "active": "72dc1430048cc8c0",
   "lastOpenFiles": [
-    "5. Dynamic Content and Templates/Codes/1.DynamicContent/node_modules/ejs/lib/utils.js",
-    "5. Dynamic Content and Templates/Codes/1.DynamicContent/node_modules/ejs/lib/ejs.js",
-    "5. Dynamic Content and Templates/Codes/1.DynamicContent/node_modules/ejs/lib",
-    "5. Dynamic Content and Templates/Codes/1.DynamicContent/node_modules/chalk/source/templates.js",
-    "5. Dynamic Content and Templates/Codes/1.DynamicContent/node_modules/chalk/source/util.js",
-    "5. Dynamic Content and Templates/Codes/1.DynamicContent/node_modules/chalk/source/index.js",
-    "5. Dynamic Content and Templates/Codes/1.DynamicContent/node_modules/chalk/source",
-    "5. Dynamic Content and Templates/Codes/1.DynamicContent/public/css/product.css",
-    "5. Dynamic Content and Templates/Codes/1.DynamicContent/public/css/main.css",
-    "5. Dynamic Content and Templates/Codes/1.DynamicContent/public/css/forms.css",
-    "5. Dynamic Content and Templates/Codes/1.DynamicContent/public/css",
-    "5. Dynamic Content and Templates/2. Templating Engines.md",
-    "5. Dynamic Content and Templates/1. Data Sharing.md",
+    "6. Model View Controller/2. Controllers.md",
+    "6. Model View Controller/3. Models.md",
+    "6. Model View Controller/Codes/MVC/data/product.json",
+    "6. Model View Controller/Codes/MVC/data",
+    "6. Model View Controller/1. What is MVC.canvas",
+    "6. Model View Controller/Codes/MVC/models/product.js",
+    "6. Model View Controller/Codes/MVC/models",
+    "files/message.png.md",
+    "files",
+    "2. Node.js Basics/4. Exports.md",
+    "1. Intoduction/1. What is Node.js.md",
+    "Readme.md",
+    "2. Node.js Basics/3. Responses.md",
     "4. Express.js/4. Setting up the Routes.md",
     "4. Express.js/3. Extracting Data from Request.md",
     "4. Express.js/2. Handling paths.md",
-    "4. Express.js/1. Introduction to Express.js.md",
-    "3. Debugging and Easier Development/2. Understanding different Errors.md",
-    "3. Debugging and Easier Development/1. Setting up NPM.md",
-    "Readme.md",
-    "2. Node.js Basics/1. How the web works.md",
     "4. Express.js/6. Serving Static files.md",
-    "4. Express.js/5. Serving a HTML page.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/touch/README.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/ignore-by-default/README.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/inherits/README.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/is-glob/README.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/normalize-path/README.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/supports-color/readme.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/mime-db/README.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/mime-db/HISTORY.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/mime-types/README.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/mime-types/HISTORY.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/undefsafe/README.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/qs/README.md",
-    "4. Express.js/Codes/2.RoutesInExpress/node_modules/has-symbols/README.md",
+    "6. Model View Controller/Codes/MVC/controllers/product.js",
+    "6. Model View Controller/Codes/MVC/controllers",
+    "6. Model View Controller/Codes/MVC/controller",
+    "6. Model View Controller/Codes/MVC/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
+    "6. Model View Controller/Codes/MVC/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
+    "6. Model View Controller/Codes/MVC/node_modules/simple-update-notifier/node_modules/semver/README.md",
+    "6. Model View Controller/Codes/MVC/node_modules/simple-update-notifier/node_modules/semver/CHANGELOG.md",
+    "6. Model View Controller/Codes/MVC/node_modules/send/node_modules/ms/readme.md",
+    "6. Model View Controller/Codes/MVC/node_modules/send/node_modules/ms/license.md",
+    "6. Model View Controller/Codes/MVC/node_modules/nodemon/node_modules/debug/README.md",
+    "6. Model View Controller/Codes/MVC/node_modules/nodemon/node_modules/debug/CHANGELOG.md",
+    "6. Model View Controller/Codes/MVC/node_modules/nodemon/node_modules/ms/readme.md",
+    "6. Model View Controller/Codes/MVC/node_modules/nodemon/node_modules/ms/license.md",
+    "6. Model View Controller/Codes/MVC/node_modules/filelist/node_modules/brace-expansion/README.md",
+    "6. Model View Controller/Codes/MVC/node_modules/filelist/node_modules/minimatch/README.md",
+    "6. Model View Controller/Codes/MVC/node_modules/express/node_modules/raw-body/SECURITY.md",
+    "6. Model View Controller/Codes/MVC/node_modules/express/node_modules/raw-body/README.md",
+    "6. Model View Controller/Codes/MVC/node_modules/express/node_modules/raw-body/HISTORY.md",
+    "6. Model View Controller/Codes/MVC/node_modules/express/node_modules/body-parser/README.md",
     "2. Node.js Basics/Images/Web Flowchart.png"
   ]
 }

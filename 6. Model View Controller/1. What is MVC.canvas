@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"text","text":"Models\n- Represents your data in your code.\n- Work with data (e.g. save and fetch)","id":"e3b83580c7bf7726","x":-500,"y":-260,"width":280,"height":220,"color":"#969dcf"},
+		{"type":"text","text":"Views\n- What your user sees.\n- Decoupled from your application code.","id":"933bccd56f931afe","x":-200,"y":-260,"width":280,"height":220,"color":"#72779a"},
+		{"type":"text","text":"Controllers\n- Connecting your Models and your Views \n- Contains the \"in-between\" logic","id":"310d1e2e04f7ae15","x":100,"y":-260,"width":280,"height":220,"color":"6"},
+		{"type":"text","text":"What is Model view controller (MVC)?","id":"24b71166af472729","x":-240,"y":-360,"width":365,"height":50,"color":"4"},
+		{"type":"file","file":"6. Model View Controller/2. Controllers.md","id":"54bdbee9ea7e48ee","x":100,"y":20,"width":400,"height":400}
+	],
+	"edges":[]
+}
