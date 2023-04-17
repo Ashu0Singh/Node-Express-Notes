@@ -11,11 +11,14 @@
             "id": "72dc1430048cc8c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "6. Model View Controller/3. Models.md",
-                "mode": "source",
-                "source": false
+                "file": "6. Model View Controller/1. What is MVC.canvas",
+                "viewState": {
+                  "x": -7.731976744186048,
+                  "y": 27.42267441860477,
+                  "zoom": -0.1486440813551355
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Model View Controller/3. Models.md",
+                "file": "6. Model View Controller/1. What is MVC.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Model View Controller/3. Models.md",
+                "file": "6. Model View Controller/1. What is MVC.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Model View Controller/3. Models.md"
+                "file": "6. Model View Controller/1. What is MVC.canvas"
               }
             }
           }
@@ -148,8 +151,8 @@
   },
   "active": "72dc1430048cc8c0",
   "lastOpenFiles": [
-    "6. Model View Controller/2. Controllers.md",
     "6. Model View Controller/3. Models.md",
+    "6. Model View Controller/2. Controllers.md",
     "6. Model View Controller/Codes/MVC/data/product.json",
     "6. Model View Controller/Codes/MVC/data",
     "6. Model View Controller/1. What is MVC.canvas",
