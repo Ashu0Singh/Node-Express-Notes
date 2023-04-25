@@ -15,8 +15,11 @@ const getFileContent = (callBack) => {
   })
 }
 class Product {
-  constructor(title) {
+  constructor(title,price,desc,image) {
     this.title = title;
+    this.price = price;
+    this.desc = desc;
+    this.image = image;
   }
   save() {
     getFileContent((products) => {

@@ -11,8 +11,12 @@
             "id": "0e2f0a8e2d7f74b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7. Adding functions to the App/Adding Paths and Custom Nav.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7. Adding functions to the App/Adding Paths and Custom Nav.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7. Adding functions to the App/Adding Paths and Custom Nav.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7. Adding functions to the App/Adding Paths and Custom Nav.md"
+              }
             }
           }
         ]
@@ -139,19 +147,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cdf73c51a537df8",
+  "active": "0e2f0a8e2d7f74b8",
   "lastOpenFiles": [
-    "7. Adding functions to the App/Codes/MVC/node_modules/resolve/test/resolver/multirepo/packages/package-a/index.js",
-    "7. Adding functions to the App/Codes/MVC/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
-    "7. Adding functions to the App/Codes/MVC/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
-    "7. Adding functions to the App/Codes/MVC/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
-    "7. Adding functions to the App/Codes/MVC/node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json",
-    "7. Adding functions to the App/Codes/MVC/node_modules/resolve/test/shadowed_core/node_modules/util/index.js",
-    "7. Adding functions to the App/Codes/MVC/node_modules/resolve/test/resolver/symlinked/_/symlink_target",
-    "7. Adding functions to the App/Codes/MVC/node_modules/resolve/test/resolver/symlinked/_/node_modules",
-    "7. Adding functions to the App/Codes/MVC/node_modules/resolve/test/resolver/symlinked/package/package.json",
-    "7. Adding functions to the App/Codes/MVC/node_modules/resolve/test/resolver/symlinked/package/bar.js",
-    "7. Adding functions to the App/Codes/MVC/node_modules/resolve/test/resolver/quux/foo/index.js",
+    "7. Adding functions to the App/Adding Paths and Custom Nav.md",
+    "7. Adding functions to the App/Codes/MVC/controllers/shop.js",
+    "7. Adding functions to the App/Codes/MVC/controllers/admin.js",
+    "7. Adding functions to the App/Codes/MVC/views/admin/products.ejs",
+    "7. Adding functions to the App/Codes/MVC/views/admin/products.js",
+    "7. Adding functions to the App/Codes/MVC/views/admin/edit-product.ejs",
+    "7. Adding functions to the App/Codes/MVC/views/shop/product-details.ejs",
+    "7. Adding functions to the App/Codes/MVC/views/shop/cart.ejs",
+    "7. Adding functions to the App/Codes/MVC/views/shop/index.ejs",
+    "7. Adding functions to the App/Codes/MVC/views/shop/product-list.ejs",
+    "7. Adding functions to the App/Codes/MVC/views/shop/shop.ejs",
     "7. Adding functions to the App/Codes/MVC/node_modules/simple-update-notifier/node_modules/semver/README.md",
     "7. Adding functions to the App/Codes/MVC/node_modules/simple-update-notifier/node_modules/semver/CHANGELOG.md",
     "7. Adding functions to the App/Codes/MVC/node_modules/send/node_modules/ms/readme.md",
